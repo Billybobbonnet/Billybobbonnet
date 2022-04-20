@@ -13,13 +13,13 @@ My current and favorite stack features the following technologies and approaches
 - Serverless microservices
 - GraphQL APIs
 - MongoDB/NoSQL databases
-- And the best frontend tech depending on the task at end, only with Vue: SSR, SSG, SPA, hybrid (SSG + Edge SSR generation)
+- And the best frontend tech depending on the task at hand, only with Vue: SSR, SSG, SPA, hybrid (SSG + Edge SSR generation)
 
 Here are some of the publicly available websites I designed recently:
 - https://wprn.org/
 - https://www.positive-future.org/fr/ 
 - https://www.intercontinental-academia.org/ 
 
-If you feel like you can help and wish to be part of the projects we are working on, please [check this out](https://gist.github.com/Billybobbonnet/c952b2b19218d8ec1537820151ace3c9) & send me an email : we are always on the lookout for good developers to join to the team!
+#### If you feel like you can help and wish to be part of the projects we are working on, please [check this out](https://gist.github.com/Billybobbonnet/c952b2b19218d8ec1537820151ace3c9) & send me an email : we are always on the lookout for good developers to join to the team!
 
 The best is yet to come! 🧙‍♂️ 😄

@@ -6,7 +6,7 @@ First, _the human area_: **social sciences, psychology and humanities**. I gradu
 
 Second, _the technical area_: **software development and engineering**. I have been working for 15 years now on innovative software development projects with high profile academic teams (Stanford SCIL, San Diego CogSi...) or industrial groups. I have also been involved in several other personal or professional projects, ranging from Natural Language Processing software using .net to full stack js web app projects & infrastructures.
 
-After nearly 10 years of freelancing for all kind of clients (mostly solo on big projects, sometimes in team), I am now CTO of the Paris Institute for Advanced Study. The projects we work on are all non-profit and promote common good, open science and open data in general. We are trying to address the actual and upcoming challenges of our world by designing tools to help as many people as we can to contribute in overcoming these situations.
+After nearly 10 years of freelancing for all kind of clients (mostly solo on big projects, sometimes in team), I am now CTO of the Paris Institute for Advanced Study. The projects we work on are all non-profit and promote common good, open science and open data in general. We are trying to address the actual and upcoming challenges of our world by designing tools to help as many people as we can to contribute to overcome these situations.
 
 My current and favorite stack features the following technologies and approaches:
 - IaC Terraform
@@ -15,7 +15,7 @@ My current and favorite stack features the following technologies and approaches
 - MongoDB/NoSQL databases
 - And the best frontend tech depending on the task at hand, only with Vue: SSR, SSG, SPA, hybrid (SSG + Edge SSR generation)
 
-Here are some of the publicly available websites I designed recently:
+Here are some of the publicly available websites I created recently:
 - https://wprn.org/
 - https://www.positive-future.org/fr/ 
 - https://www.intercontinental-academia.org/ 
